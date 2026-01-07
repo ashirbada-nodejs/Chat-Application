@@ -17,7 +17,7 @@ A **full-stack, real-time one-to-one chat application** enabling secure and seam
 ## Technology Stack
 - **Frontend:** React.js, Redux Toolkit, DaisyUI, JavaScript  
 - **Backend:** Node.js, Express.js, Socket.io  
-- **Database:** MongoDB / MySQL  
+- **Database:** MongoDB 
 - **Authentication:** JWT,bcrypt.js  
 
 ---
